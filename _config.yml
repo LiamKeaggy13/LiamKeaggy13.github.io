@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "CSMB / APCSP"
+title                    : "CSMB / Coding"
 title_separator          : "-"
-name                     : &name "Alex Schenk"
-description              : &description "This is a sample student portfoio for AP Computer Science Principles"
+name                     : &name "Liam Keaggy"
+description              : &description "My collection of coding projects and creations."
 url                      : https://liamkeaggy13.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "LiamKeaggy13/LiamKeaggy13.github.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Alexander Schenk"
-  avatar           : "Gerald_G_Rubber_Duck.png"
-  bio              : "This is a sample portfolio for AP Computer Science Principles. In AP Computer Science Principles, students learn how to creatively address real-world issues with the tools and processes of computer science."
+  name             : "Liam Keaggy"
+  avatar           : "vibecheck.jpeg"
+  bio              : "High School Coder from STL"
   location         : "St. Louis, MO"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,10 +96,10 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"academicpages"
+  github           : "LiamKeaggy13"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "keaggy.v2"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "alexander-schenk-75397012a"
