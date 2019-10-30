@@ -24,5 +24,11 @@ String Shortener
 
 [To-Do List](https://repl.it/@LiamKeaggy/to-do-list)
 
+Web Dev Projects
+
+[Create Task](create.html)
+
+[STL Leatherworks (Coding 1 Final)](final.html)
+
 ---
 
