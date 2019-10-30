@@ -26,9 +26,9 @@ String Shortener
 
 Web Dev Projects
 
-[Create Task](create.html)
+[Create Task](https://github.com/LiamKeaggy13/createtask)
 
-[STL Leatherworks (Coding 1 Final)](final.html)
+[STL Leatherworks (Coding 1 Final)](https://github.com/LiamKeaggy13/coding1final)
 
 ---
 
