@@ -8,19 +8,36 @@ redirect_from:
   - /about.html
 ---
 
-My Repl.it Projects
+My Featured Repl.it Projects
+
 
 Choose Your Own Adventure
+
+An in-depth game where users explore the mysterious labs of CSMB
+
 <iframe height="400px" width="100%" src="https://repl.it/@LiamKeaggy/chooseYourOwnAdventure?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 
+
 String Shortener
+
+After entering a string, all duplicate letters were removed, as well as all vowels that didnt start the word.
+
 <iframe height="400px" width="100%" src="https://repl.it/@LiamKeaggy/string-shortener?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+
+
+Calculate the cost of boxes of cookies depending on how much you buy.
 
 [Cookie Orders](https://repl.it/@LiamKeaggy/cookie-orders)
 
-[Largets of four](https://repl.it/@LiamKeaggy/largest-of-4)
+Returns the largest of 4 numbers
+
+[Largest of four](https://repl.it/@LiamKeaggy/largest-of-4)
+
+Magic 8 ball rendom response generator
 
 [Magic 8 Ball](https://repl.it/@LiamKeaggy/magic-8-ball-pt2)
+
+Interactive to-do list application
 
 [To-Do List](https://repl.it/@LiamKeaggy/to-do-list)
 
