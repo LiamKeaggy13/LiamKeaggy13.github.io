@@ -41,6 +41,10 @@ Interactive to-do list application
 
 [To-Do List](https://repl.it/@LiamKeaggy/to-do-list)
 
+Random 1-100 Guesser
+
+[Guessing Game](https://repl.it/@LiamKeaggy/Guessing-Game)
+
 Web Dev Projects
 
 [Create Task](https://github.com/LiamKeaggy13/createtask)
