@@ -26,25 +26,15 @@ After entering a string, all duplicate letters were removed, as well as all vowe
 
 **Repl.it Projects**
 
-Calculate the cost of boxes of cookies depending on how much you buy.
+Calculate the cost of boxes of cookies depending on how much you buy. [Cookie Orders](https://repl.it/@LiamKeaggy/cookie-orders)
 
-[Cookie Orders](https://repl.it/@LiamKeaggy/cookie-orders)
+Returns the largest of 4 numbers. [Largest of four](https://repl.it/@LiamKeaggy/largest-of-4)
 
-Returns the largest of 4 numbers
+Magic 8 ball rendom response generator. [Magic 8 Ball](https://repl.it/@LiamKeaggy/magic-8-ball-pt2)
 
-[Largest of four](https://repl.it/@LiamKeaggy/largest-of-4)
+Interactive to-do list application. [To-Do List](https://repl.it/@LiamKeaggy/to-do-list)
 
-Magic 8 ball rendom response generator
-
-[Magic 8 Ball](https://repl.it/@LiamKeaggy/magic-8-ball-pt2)
-
-Interactive to-do list application
-
-[To-Do List](https://repl.it/@LiamKeaggy/to-do-list)
-
-Random 1-100 Guesser
-
-[Guessing Game](https://repl.it/@LiamKeaggy/Guessing-Game)
+Random 1-100 Guesser. [Guessing Game](https://repl.it/@LiamKeaggy/Guessing-Game)
 
 **Web Dev Projects**
 
