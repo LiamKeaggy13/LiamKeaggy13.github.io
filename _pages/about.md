@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My Featured Repl.it Projects
+**My Featured Repl.it Projects**
 
 
 Choose Your Own Adventure
@@ -24,6 +24,7 @@ After entering a string, all duplicate letters were removed, as well as all vowe
 
 <iframe height="400px" width="100%" src="https://repl.it/@LiamKeaggy/string-shortener?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 
+**Repl.it Projects**
 
 Calculate the cost of boxes of cookies depending on how much you buy.
 
@@ -45,7 +46,7 @@ Random 1-100 Guesser
 
 [Guessing Game](https://repl.it/@LiamKeaggy/Guessing-Game)
 
-Web Dev Projects
+**Web Dev Projects**
 
 [Create Task](https://github.com/LiamKeaggy13/createtask)
 
