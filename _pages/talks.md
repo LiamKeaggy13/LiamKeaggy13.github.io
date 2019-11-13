@@ -10,4 +10,3 @@ Magic 8 ball rendom response generator. [Magic 8 Ball](https://repl.it/@LiamKeag
 Interactive to-do list application. [To-Do List](https://repl.it/@LiamKeaggy/to-do-list)
 
 FizzBuzz Test. [Fizz Buzz](https://repl.it/@LiamKeaggy/FizzBuzz)
----
