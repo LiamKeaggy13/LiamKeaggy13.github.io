@@ -42,11 +42,11 @@ Print a string backwards. [Print Backwards](https://repl.it/@LiamKeaggy/print-ba
 
 **Web Dev Projects**
 
-[Create Task](https://github.com/LiamKeaggy13/createtask)
+[Create Task](https://liamkeaggy13.github.io/createtask/)
 
 \*create task doesnt open properly in chrome, open in edge
 
-[STL Leatherworks (Coding 1 Final)](https://github.com/LiamKeaggy13/coding1final)
+[STL Leatherworks (Coding 1 Final)](https://liamkeaggy13.github.io/coding1final/)
 
 ---
 
