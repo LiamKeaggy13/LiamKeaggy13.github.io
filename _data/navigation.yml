@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "Featured Work"
+    url: /portfolio/
+  
   - title: "APCSA Repl.it"
     url: /publications/
 
@@ -9,8 +12,7 @@ main:
   - title: "Web Dev"
     url: /teaching/    
     
-  - title: "Fun"
-    url: /portfolio/
+  
        
   #- title: "Global Impact"
    # url: /year-archive/
