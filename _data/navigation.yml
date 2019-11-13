@@ -1,12 +1,12 @@
 # main links links
 main:
-  - title: "Repl.it Work"
+  - title: "APCSA Repl.it"
     url: /publications/
 
-  - title: "Web Dev"
+  - title: "Coding 1 Repl.it"
     url: /talks/    
 
-  - title: "Favorites"
+  - title: "Web Dev"
     url: /teaching/    
     
   - title: "Fun"
