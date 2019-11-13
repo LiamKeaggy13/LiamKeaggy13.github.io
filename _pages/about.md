@@ -36,6 +36,10 @@ Interactive to-do list application. [To-Do List](https://repl.it/@LiamKeaggy/to-
 
 Random 1-100 Guesser. [Guessing Game](https://repl.it/@LiamKeaggy/Guessing-Game)
 
+Prints all numbers between two ints. [Print Between](https://repl.it/@LiamKeaggy/print-between)
+
+Print a string backwards. [Print Backwards](https://repl.it/@LiamKeaggy/print-backwards)
+
 **Web Dev Projects**
 
 [Create Task](https://github.com/LiamKeaggy13/createtask)
