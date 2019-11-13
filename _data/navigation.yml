@@ -1,22 +1,22 @@
 # main links links
 main:
-  - title: "Creativity"
+  - title: "Repl.it Work"
     url: /publications/
 
-  - title: "Data"
+  - title: "Web Dev"
     url: /talks/    
 
-  - title: "Programming/Algorithms"
+  - title: "Favorites"
     url: /teaching/    
     
-  - title: "The Internet"
+  - title: "Fun"
     url: /portfolio/
-        
-  - title: "Global Impact"
-    url: /year-archive/
+       
+  #- title: "Global Impact"
+   # url: /year-archive/
     
-  - title: "Philosophy"
-    url: /cv/
+  #- title: "Philosophy"
+   # url: /cv/
     
 #   - title: "Guide"
 #     url: /markdown/
