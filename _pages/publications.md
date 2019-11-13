@@ -1,16 +1,20 @@
 ---
 layout: archive
-title: "Publications"
+title: "APCSA"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+**Repl.it Projects**
 
-{% include base_path %}
+Calculate the cost of boxes of cookies depending on how much you buy. [Cookie Orders](https://repl.it/@LiamKeaggy/cookie-orders)
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+Returns the largest of 4 numbers. [Largest of four](https://repl.it/@LiamKeaggy/largest-of-4)
+
+Random 1-100 Guesser. [Guessing Game](https://repl.it/@LiamKeaggy/Guessing-Game)
+
+Prints all numbers between two ints. [Print Between](https://repl.it/@LiamKeaggy/print-between)
+
+Print a string backwards. [Print Backwards](https://repl.it/@LiamKeaggy/print-backwards)
+
+---
