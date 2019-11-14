@@ -1,6 +1,6 @@
 ---
 title: "String SHortner/Abcderian"
-excerpt: "After entering a string, all duplicate letters were removed, as well as all vowels that didnt start the word/Tells if a string is an abcderian.<br/><img src='/images/500x300.png'>"
+excerpt: "After entering a string, all duplicate letters were removed, as well as all vowels that didnt start the word/Tells if a string is an abcderian.<br/><img src='strings.png'>"
 collection: portfolio
 ---
 
