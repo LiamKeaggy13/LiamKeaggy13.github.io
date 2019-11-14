@@ -1,5 +1,5 @@
 ---
-title: "String SHortner/Abcderian"
+title: "String Shortner/Abcderian"
 excerpt: "After entering a string, all duplicate letters were removed, as well as all vowels that didnt start the word/Tells if a string is an abcderian.<br/><img src='strings.png'>"
 collection: portfolio
 ---
