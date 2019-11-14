@@ -1,6 +1,6 @@
 ---
 title: "Choose Your Own Adventure"
-excerpt: "An in-depth game where users explore the mysterious labs of CSMB<br/><img src='/images/500x300.png'>"
+excerpt: "An in-depth game where users explore the mysterious labs of CSMB<br/><img src='csmb.jpeg'>"
 collection: portfolio
 ---
 
