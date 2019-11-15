@@ -5,13 +5,14 @@ main:
   
   - title: "APCSA Repl.it"
     url: /publications/
-
+    
+  - title: "APCSP"
+    url: /teaching/    
+    
   - title: "Coding 1"
     url: /talks/    
 
-  - title: "Web Dev"
-    url: /teaching/    
-    
+
   
        
   #- title: "Global Impact"
