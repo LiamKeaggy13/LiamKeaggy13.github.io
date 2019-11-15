@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "Web-Dev"
+title: "APCSP PT"
 permalink: /teaching/
 author_profile: true
 ---
-**Web Dev Projects**
+**APCSP Performance Tasks**
 
 [Create Task](https://github.com/LiamKeaggy13/createtask)
 
 \*create task doesnt open properly in chrome, open in edge
 
-[STL Leatherworks (Coding 1 Final)](https://github.com/LiamKeaggy13/coding1final)
+
