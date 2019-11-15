@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "CSMB / Coding"
+title                    : "Liam Keaggy"
 title_separator          : "-"
 name                     : &name "Liam Keaggy"
 description              : &description "My collection of coding projects and creations."
